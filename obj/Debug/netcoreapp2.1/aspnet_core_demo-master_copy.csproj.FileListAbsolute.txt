@@ -1,0 +1,14 @@
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\bin\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.deps.json
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\bin\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.runtimeconfig.json
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\bin\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.runtimeconfig.dev.json
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\bin\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.dll
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\bin\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.pdb
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.csprojAssemblyReference.cache
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.csproj.CoreCompileInputs.cache
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.RazorAssemblyInfo.cache
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.RazorAssemblyInfo.cs
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.AssemblyInfoInputs.cache
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.AssemblyInfo.cs
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.RazorTargetAssemblyInfo.cache
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.dll
+C:\Trainings\knowledge\microservvice_patterns\aspnet_core_demo-master_copy\aspnet_core_demo-master_copy\obj\Debug\netcoreapp2.1\aspnet_core_demo-master_copy.pdb
